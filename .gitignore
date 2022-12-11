@@ -63,3 +63,14 @@ typings/
 tmp
 
 .DS_Store
+
+
+*.r1cs
+*.sym
+*.out
+*.wtns
+*.ptau
+*.zkey
+*.json
+bench_poseidon_cpp/
+node_modules/
